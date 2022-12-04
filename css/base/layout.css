@@ -1,0 +1,22 @@
+
+.layout {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: row;
+
+}
+.container {
+    flex: 50%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: yellow;
+}
+.left {
+    background-color: red;
+}
+.right {
+    background-color: green;
+}
+
+
